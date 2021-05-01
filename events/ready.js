@@ -17,4 +17,4 @@ module.exports = client => {
   );
 
   client.user.setPresence({ activity: { name: " B$T4 | v12 - Register" }, status: "dnd" });
-};
+}:
